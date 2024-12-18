@@ -2,4 +2,4 @@
 
 CS 341 Honors Project - WiFi controlled USB Rubber Ducky
 
-Setup shown in video
+acknowledgement: key-mime-pi https://mtlynch.io/key-mime-pi/
